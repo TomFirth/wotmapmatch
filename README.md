@@ -1,6 +1,6 @@
 # World of Tanks Map Match!
 
-(wotmapmatch.github.io)[https://wotmapmatch.github.io]
+(tomfirth.github.io/wotmapmatch)[https://tomfirth.github.io/wotmapmatch]
 
 Think you know your World of Tanks maps inside and out?
 

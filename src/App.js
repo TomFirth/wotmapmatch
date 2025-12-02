@@ -79,7 +79,7 @@ function App() {
             onDragOver={onDragOver}
           >
             <div className="img-wrapper">
-              <img src={map.img} alt={map.img} />
+              <img src={`/wotmapmatch${map.img}`} alt={map.img} />
               <div className="overlay"></div>
             </div>
             <div className="map-label">

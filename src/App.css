@@ -59,6 +59,10 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+
+  position: sticky;
+  top: 20px;   /* how far from top of screen it sticks */
+  height: fit-content;
 }
 
 .names-list {
